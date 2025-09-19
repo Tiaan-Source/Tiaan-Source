@@ -44,4 +44,9 @@
   </a>
 </div>
 
+<a href="./Tiaan_Scholtz_CV.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/View%20My%20CV-%230077B5?style=for-the-badge&logo=read-the-docs&logoColor=white" height="35" alt="cv badge" />
+</a>
+
+
 ###
